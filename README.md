@@ -1,7 +1,7 @@
 kubernetes
 # Kubernetes
 
-Based on "Step-by-step setup for Kuberneted" at http://carl.schelin.org/?p=1916
+Based on "Step-by-step setup for Kubernetes" at http://carl.schelin.org/?p=1916
 
 ## 100 - Introduction
 
