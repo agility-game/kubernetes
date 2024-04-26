@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+kubernetes
+# Kubernetes
 
-Based on "ABC" at https://www.abc.com/
+Based on "Step-by-step setup for Kuberneted" at http://carl.schelin.org/?p=1916
 
 ## 100 - Introduction
 
